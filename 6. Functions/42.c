@@ -1,3 +1,4 @@
+/* Write a function prodDigits() that inputs a number and returns the product of digits of that number. */
 #include<stdio.h>
 int prodDigits(int);       //Function Prototype
 void main()

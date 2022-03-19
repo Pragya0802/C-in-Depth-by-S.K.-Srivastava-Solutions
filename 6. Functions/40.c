@@ -1,3 +1,4 @@
+/* Write a function that inputs a number and prints the multiplication table of that number. */
 #include<stdio.h>
 void table(int);         //function prototype
 void main()

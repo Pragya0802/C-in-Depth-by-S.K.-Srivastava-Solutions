@@ -1,3 +1,4 @@
+/* Write a program to accept any number n and print the cube of all numbers from 1 to n which are divisible by 3. Rewrite the program using a continue statement. */
 #include<stdio.h>
 void main()
 {
